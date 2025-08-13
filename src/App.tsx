@@ -387,7 +387,7 @@ function App() {
                   
                   <div className="flex gap-4">
                     <a
-                      href="https://github.com/shanmukjavvadi/Image-Steganography.git"
+                      href="https://github.com/shanmukjavvadi/password-generator.git"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="bg-gray-800 hover:bg-gray-700 px-4 py-2 rounded-lg transition-colors flex items-center gap-2"
