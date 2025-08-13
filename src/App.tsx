@@ -164,7 +164,7 @@ function App() {
                 <span className="text-gray-300">Sai Vardhan</span>
               </h1>
               <p className="text-xl md:text-2xl text-gray-400 mb-6">
-                FullStack | Data Scientist | AI Enthusiast
+                FullStack | Data Scientist
               </p>
               <p className="text-lg md:text-xl text-gray-500 max-w-3xl mx-auto">
                 Recent CSE (AI & ML) grad — building full-stack apps and learning Data Science.
