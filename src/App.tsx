@@ -372,19 +372,17 @@ function App() {
                 
                 <div className="lg:w-1/2 space-y-6">
                   <div>
-                    <h3 className="text-2xl font-bold mb-3">Image Steganography</h3>
+                    <h3 className="text-2xl font-bold mb-3">Password Generator</h3>
                     <p className="text-gray-300 leading-relaxed">
-                      Web-based application to hide and extract secret messages from images using advanced 
-                      steganography techniques. Built with modern web technologies for optimal performance 
-                      and user experience.
+                      	A fast, lightweight React password generator that produces secure, randomized passwords with guaranteed
+                      inclusion of lowercase, uppercase, numbers, and symbols. Users can customize the length (4–50 characters) and
+                      copy the password with a single click.
                     </p>
                   </div>
                   
                   <div className="flex flex-wrap gap-2">
-                    <span className="bg-blue-900/50 text-blue-200 px-3 py-1 rounded-full text-sm">Next.js</span>
-                    <span className="bg-blue-900/50 text-blue-200 px-3 py-1 rounded-full text-sm">TypeScript</span>
-                    <span className="bg-blue-900/50 text-blue-200 px-3 py-1 rounded-full text-sm">Canvas API</span>
-                    <span className="bg-blue-900/50 text-blue-200 px-3 py-1 rounded-full text-sm">Steganography</span>
+                    <span className="bg-blue-900/50 text-blue-200 px-3 py-1 rounded-full text-sm">Python</span>
+                    <span className="bg-blue-900/50 text-blue-200 px-3 py-1 rounded-full text-sm">React</span>
                   </div>
                   
                   <div className="flex gap-4">
