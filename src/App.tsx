@@ -355,6 +355,45 @@ function App() {
                     </a>
                   </div>
                 </div>
+
+                <div className="lg:w-1/2 space-y-6">
+                  <div>
+                    <h3 className="text-2xl font-bold mb-3">Image Steganography</h3>
+                    <p className="text-gray-300 leading-relaxed">
+                      Web-based application to hide and extract secret messages from images using advanced 
+                      steganography techniques. Built with modern web technologies for optimal performance 
+                      and user experience.
+                    </p>
+                  </div>
+                  
+                  <div className="flex flex-wrap gap-2">
+                    <span className="bg-blue-900/50 text-blue-200 px-3 py-1 rounded-full text-sm">Next.js</span>
+                    <span className="bg-blue-900/50 text-blue-200 px-3 py-1 rounded-full text-sm">TypeScript</span>
+                    <span className="bg-blue-900/50 text-blue-200 px-3 py-1 rounded-full text-sm">Canvas API</span>
+                    <span className="bg-blue-900/50 text-blue-200 px-3 py-1 rounded-full text-sm">Steganography</span>
+                  </div>
+                  
+                  <div className="flex gap-4">
+                    <a
+                      href="https://github.com/shanmukjavvadi/Image-Steganography.git"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="bg-gray-800 hover:bg-gray-700 px-4 py-2 rounded-lg transition-colors flex items-center gap-2"
+                    >
+                      <Github size={20} />
+                      Code
+                    </a>
+                    <a
+                      href="https://imagesteganography7.netlify.app/"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="bg-white text-black hover:bg-gray-200 px-4 py-2 rounded-lg transition-colors flex items-center gap-2"
+                    >
+                      <ExternalLink size={20} />
+                      Live Demo
+                    </a>
+                  </div>
+                </div>
               </div>
             </div>
           </div>
