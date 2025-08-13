@@ -356,6 +356,20 @@ function App() {
                   </div>
                 </div>
 
+                
+              </div>
+            </div>
+          </div>
+
+          <div className="grid md:grid-cols-2 lg:grid-cols-1 gap-8">
+            <div className="bg-gray-900 rounded-xl p-8 hover:bg-gray-800 transition-colors">
+              <div className="flex flex-col lg:flex-row gap-8 items-center">
+                <div className="lg:w-1/2">
+                  <div className="bg-gradient-to-br from-blue-500 to-purple-600 h-64 rounded-lg flex items-center justify-center">
+                    <FolderOpen size={80} className="text-white opacity-80" />
+                  </div>
+                </div>
+                
                 <div className="lg:w-1/2 space-y-6">
                   <div>
                     <h3 className="text-2xl font-bold mb-3">Image Steganography</h3>
@@ -394,6 +408,8 @@ function App() {
                     </a>
                   </div>
                 </div>
+
+                
               </div>
             </div>
           </div>
